@@ -1,0 +1,12 @@
+{
+  "DownloadFolder": "c:\\Users\\tcomben\\Downloads",
+  "LogFolder": "c:\\Users\\tcomben\\Downloads\\Logs",
+  "LastDownloadedFileName": "last_dl.txt",
+  "Podcasts": [
+    {
+      "Id": "9e49968a-d215-4319-ba47-70c98d5dd745",
+      "RssUrl": "http://feeds.feedburner.com/TheAzurePodcast?format=xml",
+      "DownloadSubFolder": "AzurePodcast"
+    }
+  ]
+}
